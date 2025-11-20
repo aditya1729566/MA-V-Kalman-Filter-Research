@@ -109,8 +109,8 @@ ability to validate models through multi-regime backtesting
 readiness for CMU’s Statistics, Mathematical Sciences, and MSCF ecosystem.
  Contact
 Author: Aditya Agrawal
-GitHub: github.com/
-Email: 
-Research PDF: (
+GitHub: github.com/aditya1729566
+Email: aditya.eco101@gmail.com
+
 If you are a CMU faculty member reviewing my work, I would be happy to provide the raw data, Jupyter notebooks, or breakdown of each component of the Kalman Filter.
  END OF README
