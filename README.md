@@ -83,7 +83,7 @@ Everything built here is meant to mimic how an institutional stat-arb book behav
  Acknowledgements
 Special thanks to Mike Harris, whose work on execution and market microstructure inspired a big part of this redesign.
  Connect
-X / Twitter: @AdityaAgra46739
+X / Twitter: @aditya_quant
 Email: aditya.eco101@gmail.com
 Open to collaboration, discussion, and feedback.
 
